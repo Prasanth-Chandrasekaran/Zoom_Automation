@@ -1,4 +1,5 @@
+#time should be give in 24hrs format and should be given as 12:00....":" is mandatory
 lst=[
-    ["https://us05web.zoom.us/j/9380990636?pwd=VmVsL3RnYnZyb0hVWlRibzZGdjB6UT09","12:13","12:15"]
+    ["meeting_link","start_time","end_time"]
 
 ]
